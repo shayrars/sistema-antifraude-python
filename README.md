@@ -37,14 +37,15 @@ O projeto está organizado em três módulos principais:
 ## 🚀 Como executar
 
 ### 1️⃣ Gerar base de dados
-
+```bash
 python gerar_base.py
-
+```
 ### 2️⃣ **Rodar motor antifraude**
-
+```bash
 python motor_risco.py
-
+```
 ### 3️⃣ **Gerar dashboard**
-
+```bash
 python motor_risco.py
+```
 
